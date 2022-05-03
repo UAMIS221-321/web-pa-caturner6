@@ -1,0 +1,15 @@
+/Users/camturner/Desktop/Repos/web-pa-caturner6/bin/Debug/net5.0/web-pa-caturner6.deps.json
+/Users/camturner/Desktop/Repos/web-pa-caturner6/bin/Debug/net5.0/web-pa-caturner6.runtimeconfig.json
+/Users/camturner/Desktop/Repos/web-pa-caturner6/bin/Debug/net5.0/web-pa-caturner6.runtimeconfig.dev.json
+/Users/camturner/Desktop/Repos/web-pa-caturner6/bin/Debug/net5.0/web-pa-caturner6.dll
+/Users/camturner/Desktop/Repos/web-pa-caturner6/bin/Debug/net5.0/ref/web-pa-caturner6.dll
+/Users/camturner/Desktop/Repos/web-pa-caturner6/bin/Debug/net5.0/web-pa-caturner6.pdb
+/Users/camturner/Desktop/Repos/web-pa-caturner6/obj/Debug/net5.0/web-pa-caturner6.csprojAssemblyReference.cache
+/Users/camturner/Desktop/Repos/web-pa-caturner6/obj/Debug/net5.0/web-pa-caturner6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camturner/Desktop/Repos/web-pa-caturner6/obj/Debug/net5.0/web-pa-caturner6.AssemblyInfoInputs.cache
+/Users/camturner/Desktop/Repos/web-pa-caturner6/obj/Debug/net5.0/web-pa-caturner6.AssemblyInfo.cs
+/Users/camturner/Desktop/Repos/web-pa-caturner6/obj/Debug/net5.0/web-pa-caturner6.csproj.CoreCompileInputs.cache
+/Users/camturner/Desktop/Repos/web-pa-caturner6/obj/Debug/net5.0/web-pa-caturner6.dll
+/Users/camturner/Desktop/Repos/web-pa-caturner6/obj/Debug/net5.0/ref/web-pa-caturner6.dll
+/Users/camturner/Desktop/Repos/web-pa-caturner6/obj/Debug/net5.0/web-pa-caturner6.pdb
+/Users/camturner/Desktop/Repos/web-pa-caturner6/obj/Debug/net5.0/web-pa-caturner6.genruntimeconfig.cache

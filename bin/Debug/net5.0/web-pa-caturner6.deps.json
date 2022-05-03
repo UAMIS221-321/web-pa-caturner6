@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "web-pa-caturner6/1.0.0": {
+        "runtime": {
+          "web-pa-caturner6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "web-pa-caturner6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
